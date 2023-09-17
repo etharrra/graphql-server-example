@@ -34,6 +34,7 @@ Before you begin, ensure you have the following installed on your system:
     |-- index.js
     |-- package.json
     |-- README.md
+    |-- resolvers.js
     |-- schema.js
 ```
 
